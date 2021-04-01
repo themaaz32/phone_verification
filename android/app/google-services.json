@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "209583317795",
+    "project_id": "phone-verification-e85ff",
+    "storage_bucket": "phone-verification-e85ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209583317795:android:576af6251662b72e656296",
+        "android_client_info": {
+          "package_name": "com.easyapproach.phone_verification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209583317795-3545ak6nipu0ra1mqvu38vhimlkb7t0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtaJdLlmn5buo1LFWQCeeaqYrAKSg9HhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209583317795-3545ak6nipu0ra1mqvu38vhimlkb7t0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
